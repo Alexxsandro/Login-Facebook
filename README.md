@@ -1,6 +1,6 @@
 # Login-facebook
 
-:books: Foi criado a página do facebook de login e cadastro
+:books: Foi criado a página do facebook de login e cadastro para finalidade de estudo
 
 ![chrome_mTFd2PLkWp](https://user-images.githubusercontent.com/80698066/167472408-0e0a43d9-c3c5-4c28-b598-e38bfa64fc8f.png)
 
